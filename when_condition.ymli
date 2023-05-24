@@ -27,3 +27,4 @@
 
 #https://docs.ansible.com/ansible/latest/user_guide/playbooks_conditionals.html
  name: Shutdown CentOS 6 and Debian 7 Servers
+ new testine adding 
